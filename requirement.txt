@@ -1,0 +1,6 @@
+langchain
+langchain_ollama
+crewai
+dotenv
+crewai_tools
+stremlit
